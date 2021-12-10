@@ -1,0 +1,5 @@
+bin/
+cmake/
+cmake-debug/
+.idea/
+.clion.source.upload.marker

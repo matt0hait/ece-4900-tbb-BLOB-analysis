@@ -1,0 +1,13 @@
+Test Image:
+sequential: 103,072
+task_group: 132,688
+
+Solutions for deep recursion:
+	1. Translate to iterative
+	2. Translate to tail recursion
+	4. Trampoline
+	2. Use little to no vars and prevent over recursuion
+	3. Enlarge the stack and prevent over recursuion
+	3. Relocate stack pointer onto heap
+
+Recursion = O(p^n) where p is the # of pixels and n is the number of pixels in the contact kernel
