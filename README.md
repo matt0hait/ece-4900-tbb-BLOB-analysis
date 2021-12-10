@@ -12,7 +12,7 @@ This application has the following dependencies:
 
 ## Clone
 ```bash
-git clone **yet to be added...**
+git clone https://github.com/matt0hait/ece-4900-tbb-BLOB-analysis.git
 ```
 ## Build
 ```bash
